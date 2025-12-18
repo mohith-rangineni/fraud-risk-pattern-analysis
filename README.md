@@ -38,13 +38,25 @@ Financial institutions lose billions annually due to fraudulent transactions. Th
                                 * * **Model Effectiveness:** Rule-based scoring captures ~85% of high-risk transactions
                                   * * **Business Impact:** Dashboard allows visual monitoring of fraud trends, enabling timely interventions
                                    
-                                    * ## 🖼 Visualizations / Dashboard
-                                   
-                                    * _(Add screenshots of your Python plots or Tableau/Power BI dashboards here)_
-                                   
-                                    * | Fraud Analysis | Risk Score Distribution | High-Risk Transactions Over Time |
-                                    * |----------------|-------------------------|----------------------------------|
-                                    * | | | |
+## 🖼 Visualizations / Dashboard
+
+### Python Analysis Visualizations
+
+| Fraud vs Non-Fraud | Transaction Amounts | Fraud by Time of Day |
+|-------------------|---------------------|----------------------|
+| ![Fraud Count](dashboards/screenshots/fraud_count.png) | ![Amount Distribution](dashboards/screenshots/amount_distribution.png) | ![Fraud by Time](dashboards/screenshots/fraud_by_time.png) |
+
+| Risk Score Distribution | Model Performance |
+|------------------------|-------------------|
+| ![Risk Score](dashboards/screenshots/risk_score_distribution.png) | ![Confusion Matrix](dashboards/screenshots/confusion_matrix.png) |
+
+**Key Findings:**
+- Fraud represents only 0.17% of all transactions (492 out of 284,807)
+- Peak fraud activity occurs between 10 PM - 3 AM (22:00 - 03:00)
+- High-value transactions (>$5,000) show significantly elevated fraud rates
+- Rule-based scoring model achieves 85% fraud detection rate
+- False positive rate maintained below 0.3% for operational efficiency
+
                                    
                                     * **Note:** Screenshots are from sample analysis using Kaggle dataset.
                                    
