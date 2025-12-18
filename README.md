@@ -62,3 +62,42 @@ Financial institutions lose billions annually due to fraudulent transactions. Th
                                             ├── dashboards/             # Power BI / Tableau files or screenshots
                                             └── README.md               # Project overview and instructions
                                             ```
+
+
+## 🏷️ Skills & Technologies Demonstrated
+
+### Data Analysis & Programming
+- **Python Programming:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- - **Data Manipulation:** Data cleaning, preprocessing, feature engineering
+  - - **Statistical Analysis:** Pattern recognition, trend analysis, outlier detection
+   
+    - ### Business Intelligence & Visualization
+    - - **Data Visualization:** Creating charts, graphs, and interactive dashboards
+      - - **BI Tools:** Power BI, Tableau Public
+        - - **Reporting:** Executive summaries, KPI tracking, performance metrics
+         
+          - ### Domain Expertise
+          - - **Fraud Detection:** Rule-based scoring, risk assessment, anomaly detection
+            - - **Financial Analytics:** Transaction analysis, risk management, loss prevention
+              - - **Pattern Analysis:** Temporal patterns, behavioral analysis, trend identification
+               
+                - ### Technical Skills
+                - - **Database:** SQL querying, data filtering, aggregation
+                  - - **Machine Learning:** Supervised learning concepts, classification, model evaluation
+                    - - **Version Control:** Git, GitHub
+                      - - **Documentation:** Technical writing, project documentation
+                       
+                        - ### Key Competencies
+                        - - Risk Analysis & Scoring
+                          - - Predictive Analytics
+                            - - Data-Driven Decision Making
+                              - - Business Problem Solving
+                                - - Stakeholder Communication
+                                 
+                                  - ---
+
+                                  ## 📫 Contact & Links
+
+                                  **Project Repository:** [github.com/mohith-rangineni/fraud-risk-pattern-analysis](https://github.com/mohith-rangineni/fraud-risk-pattern-analysis)
+
+                                  **Keywords:** Fraud Detection | Risk Analysis | Python | Data Analytics | Machine Learning | Tableau | Power BI | SQL | Pattern Recognition | Financial Analytics | Data Visualization | Business Intelligence
